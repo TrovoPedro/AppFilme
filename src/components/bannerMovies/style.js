@@ -2,7 +2,7 @@ import {StyleSheet} from "react-native"
 
 const styles = StyleSheet.create({
 
-    textBanner:{
+    textBanner:{ 
         fontSize:30,
         color:"white",
         marginTop:15,
@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
 
     imageBanner:{
         width: '100%',
-        height: 200,
+        height: 850,
         marginTop:15,
         borderRadius:10
     }
